@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=DevDaily&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Your+Daily+Developer+Dashboard;GitHub+%2B+Tech+News+%2B+AI;Build.+Track.+Learn.+Ship.;Everything+Developers+Need+in+One+Place" alt="Typing Animation" />
 </p>
@@ -28,9 +30,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=DevDaily&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+
 
 ### Dashboard
 
