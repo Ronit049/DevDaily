@@ -1,4 +1,3 @@
-# ⚡ DevDaily
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Your+Daily+Developer+Dashboard;GitHub+%2B+Tech+News+%2B+AI;Build.+Track.+Learn.+Ship.;Everything+Developers+Need+in+One+Place" alt="Typing Animation" />
